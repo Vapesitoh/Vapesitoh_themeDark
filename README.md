@@ -4,7 +4,7 @@ Este es un tema personalizado para BetterDiscord llamado Dark_Anime. Proporciona
 
 ## Instalación
 
-1. Asegúrate de tener BetterDiscord instalado en tu cliente de Discord. Puedes obtenerlo en [betterdiscord.net](https://betterdiscord.net).
+1. Asegúrate de tener BetterDiscord instalado en tu cliente de Discord. Puedes obtenerlo en [betterdiscord.app](https://betterdiscord.app/themes).
 2. Descarga el archivo `Dark Anime.theme.css` de este repositorio.
 3. Abre tu cliente de Discord y ve a la configuración de BetterDiscord.
 4. En la sección de Temas, haz clic en "Abrir carpeta de temas".
